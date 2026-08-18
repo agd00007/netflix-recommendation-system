@@ -133,7 +133,7 @@ def action_button():
         for position, similarity_film in enumerate(movie_similary):
 
             # si es distinta a la de la propia pelicula
-            if similarity_film != 1:
+            if if position != index_movie:
 
                 # las añadimos todas a una lista que contendra posicion y similitud
                 film_similary.append((position, similarity_film))
