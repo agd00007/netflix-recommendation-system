@@ -1,6 +1,6 @@
 # 🎬 Netflix Recommendation System
 
-A **content-based recommendation system** for Netflix movies and TV shows developed with **Python** and Machine Learning techniques.
+![Netflix Recommendation System](foto.png)
 
 The user enters a movie or TV show they enjoyed, and the application analyzes the catalog to return the **10 most similar titles**, including their similarity percentage.
 
